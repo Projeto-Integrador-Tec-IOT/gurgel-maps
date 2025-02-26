@@ -48,41 +48,41 @@
 
 <h2>  <strong> 🌟REQUISITOS FUNCIONAIS E NÃO FUNCIONAIS </strong> </h2>
  <ul>
-  <h3><li> Cadastro:Funcional(F)  </li></h3>
+  <h3><li> Cadastro - Funcional(F)  </li></h3>
       <blockquote>O sistema deve ter o cadastro do entregador para que possa realizar os serviços.  </blockquote>
   
-  <h3><li> Login: Funcional(F)  </li></h3>
+  <h3><li> Login - Funcional(F)  </li></h3>
       <blockquote> O sistema deve permitir o login do usuário para verificar se as informações estão autênticas. </blockquote>
   
-  <h3><li> Adicionar Endereço: Funcional(F)    </li></h3>
+  <h3><li> Adicionar Endereço - Funcional(F)    </li></h3>
       <blockquote> O sistema deverá adicionar um endereço da encomenda antes ou durante o serviço quando solicitado. </blockquote>
   
-  <h3><li> Excluir Endereço: Funcional(F)   </li></h3>
+  <h3><li> Excluir Endereço - Funcional(F)   </li></h3>
       <blockquote> O sistema deverá excluir um endereço da encomenda quando solicitado. 
   </blockquote>
   
-  <h3><li> Visualizar Rota: Funcional(F)    </li></h3>
+  <h3><li> Visualizar Rota - Funcional(F)    </li></h3>
       <blockquote>O sistema deverá mostrar o traçado das rotas adicionadas ao entregador. </blockquote>
   
-  <h3><li> Conexão com Banco de dados: Funcional(F)    </li></h3>
+  <h3><li> Conexão com Banco de dados - Funcional(F)    </li></h3>
       <blockquote> O sistema deve estar conectado ao banco de dados.</blockquote>
   
-  <h3><li> Interface Desktop: Funcional(F)    </li></h3>
+  <h3><li> Interface Desktop - Funcional(F)    </li></h3>
       <blockquote> O sistema em sua interface desktop mostrar as telas para login e cadastro.</blockquote>
   
-  <h3><li>  Site: Funcional(F)</li></h3>
+  <h3><li>  Site - Funcional(F) </li></h3>
       <blockquote> O sistema em sua interface do site mostrará os dados de rotina do integrador. </blockquote>
   
-  <h3><li> Perfomace: Funcional(F)   </li></h3>
+  <h3><li> Perfomace - Funcional(F)   </li></h3>
       <blockquote> O sistema deverá ter uma perfomace adequado durante o uso do entregador. </blockquote>
   
-  <h3><li> Usabilidade: Não Funcional(NF)   </li></h3>
+  <h3><li> Usabilidade - Não Funcional(NF)   </li></h3>
       <blockquote> O sistema deve ter uma interação simples com o usuário.  </blockquote>
   
-  <h3><li> Aparencia gráfica: Não Funcional(NF)    </li></h3>
+  <h3><li> Aparencia gráfica - Não Funcional(NF)    </li></h3>
       <blockquote> O sistema deve ter uma aparencia simples e intuitiva.</blockquote>
   
-  <h3><li> Segurança: <br>TIpo   </li></h3> Não Funcional (NF)
+  <h3><li> Segurança - Não Funcional (NF)  </li></h3> 
       <blockquote> Ss dados de rotas devem ser armazenados no banco de dados.	</blockquote>
 </ul>  
 
